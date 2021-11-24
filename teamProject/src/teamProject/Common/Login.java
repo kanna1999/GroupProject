@@ -1,5 +1,5 @@
 package teamProject.Common;
 
-public class Website {
+public class Login{
 
 }

@@ -1,6 +1,11 @@
 package teamProject.Common;
 
-public class Admin {
+public class Admin extends Customer{
 	
-
+public Admin() {
+	super();
+	
+}
+	
+	
 }
