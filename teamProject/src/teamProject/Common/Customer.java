@@ -1,8 +1,12 @@
 package teamProject.Common;
 
-public class Customer {
-	private String dob;
-	private String ssn;
+public class Customer extends Registration{
+	
+	
+	public Customer() {
+		super();
+		
+	}
 	
 }
 

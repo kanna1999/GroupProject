@@ -1,4 +1,4 @@
-package teamProject.Common;
+package teamProject.JavaFx;
 
 public class Registration {
 
